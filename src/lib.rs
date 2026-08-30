@@ -1,5 +1,6 @@
 #![forbid(unsafe_code)]
-//! Library entry point for an Xmip component.
+//! Operational diagnosis for Xmip installations.
 //!
-//! Replace this template documentation only after the repository responsibility,
-//! public contracts and dependency direction are accepted in the Xmip architecture.
+//! This planned capability will diagnose connectivity, name resolution,
+//! certificates, and firewall reachability without owning transport behavior.
+//! No public diagnostic API is implemented yet.
